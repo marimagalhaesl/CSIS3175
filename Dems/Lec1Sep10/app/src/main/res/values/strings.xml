@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lec1Demo</string>
+    <string name="txtTitle">My Recipes</string>
+    <string name="txtAuthorName">James Corrin</string>
+    <string name="txtBtnShowRecipe">Show Recipe</string>
+</resources>

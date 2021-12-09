@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lec7Demo</string>
+    <string name="txtTitle">Picture Gallery</string>
+    <string name="txtLargeImgDesc">Clicked Image</string>
+</resources>

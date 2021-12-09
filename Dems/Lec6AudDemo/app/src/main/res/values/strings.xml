@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo6</string>
+    <string name="txtTitle">Music Player</string>
+    <string name="imgDesc">Splash Image</string>
+</resources>

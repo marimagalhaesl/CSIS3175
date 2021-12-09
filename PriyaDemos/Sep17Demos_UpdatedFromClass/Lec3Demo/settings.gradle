@@ -1,0 +1,2 @@
+rootProject.name = "Lec3 Concert Demo"
+include ':app'

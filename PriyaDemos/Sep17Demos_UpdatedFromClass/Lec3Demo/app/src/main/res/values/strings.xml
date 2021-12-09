@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lec3 Concert Demo</string>
+    <string name="txtTitle">Concert Booking</string>
+    <string name="txtNumTix">Number of Tickets</string>
+    <string name="txtConcertPrompt">Concert Type</string>
+    <string-array name="concertTypes">
+        <item>Rock Band</item>
+        <item>Jazz Band</item>
+        <item>Blues Band</item>
+    </string-array>
+</resources>

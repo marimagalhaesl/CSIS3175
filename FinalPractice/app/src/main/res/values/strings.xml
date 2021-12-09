@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MTforFinals</string>
+    <string name="txtViewTitle">Gucci - 21092020 - 3175 MT</string>
+    <string name="editTextCustomerName">Customer Name</string>
+    <string name="spinnerDestinationPrompt">Choose your destination</string>
+    <string name="btnNext">Next</string>
+    <string name="editTextNumberOfPeopl">Number of People</string>
+    <string-array name="destinations">
+        <item>Hawaii</item>
+        <item>Cancun</item>
+        <item>Vienna</item>
+    </string-array>
+</resources>
