@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TnT - Tasks Tracking</string>
+    <string name="txtViewStudentId" />
+    <string name="txtViewStudentName" />
 </resources>

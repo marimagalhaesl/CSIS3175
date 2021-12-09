@@ -3,3 +3,8 @@ task_id,user_id,description,iscompleted
 2,2,Pet the cat,false
 3,2,Put gas in the car,false
 4,1,Order McDonalds,false
+5,4,Walk myself, false
+6,5,Party all night, false
+7,3,Sue Douglas College,false
+8,5,Study for finals, false
+9,3,Groceries,false

@@ -5,8 +5,10 @@ import androidx.room.Room;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.ListView;
 
 import com.example.finalpracticehard.R;
+import com.example.finalpracticehard.adapter.UserAdapter;
 import com.example.finalpracticehard.dao.StudentDAO;
 import com.example.finalpracticehard.dao.TaskDAO;
 import com.example.finalpracticehard.database.AppDatabase;
@@ -53,6 +55,11 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("DEBUG_DB", "DB Exception Occurred" + exception.getMessage());
             }
         });
+
+        //setting the adapter for the users:
+        ListView listViewStudent = findViewById(R.id.listViewStudent);
+        UserAdapter userAdapter = new UserAdapter(studentList);
+        listViewStudent.setAdapter(userAdapter);
     }
 
 
